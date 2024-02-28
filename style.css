@@ -1,0 +1,67 @@
+body{
+ background-image: url(https://i.pinimg.com/236x/0f/52/26/0f5226c06adec25af88c2ed830a44f84.jpg);
+
+}
+
+.container{
+    display: flex;
+    justify-content: center ;
+    gap: 10%;
+    text-align: center;
+    float: right;
+    align-items: center;
+
+}
+
+.abdulQadirimg{
+    border-radius: 30%;}
+
+.title-name{
+    font-size: 250%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    
+}
+
+h1{
+    font-size: 250%;
+    font-family:sans-serif ;
+    color: #0077ff;
+    margin-top: 5%;
+    text-align: center;
+    padding: 2%;
+}
+
+.information-para{
+    font-size: 110%;
+    color: #ffffff;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+   
+}
+
+.biographics{
+    color: #ffffff;
+    text-align: center;
+
+}
+
+.Biographic-font{
+    font-size: 200%;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #0077ff;
+    
+}
+
+.earlylifeFont{
+    font-family:Arial, Helvetica, sans-serif ;
+    margin-left: 1%;
+}
+
+footer{
+    color: #ffffff;
+    font-size: 150%;
+    font-family: monospace;
+    text-align: end;
+}
